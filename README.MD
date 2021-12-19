@@ -4,7 +4,7 @@
 $ pkg update && pkg upgrade <br>\par
 $ pkg install python2 <br>\par
 $ pkg install git <br>\par
-$ git clone {\field{\*\fldinst{HYPERLINK "https://github.com/Blackhgtctfc/Crack666"}}{\fldrslt{\ul\cf1 https://github.com/Cuil26/Crack666}}}\f0\fs22  <br>\par
+$ git clone {\field{\*\fldinst{HYPERLINK "https://github.com/Blackhgtctfc/Crack666"}}{\fldrslt{\ul\cf1 https://github.com/Blackhgtctfc/Crack666}}}\f0\fs22  <br>\par
 $ cd Crack <br>\par
 $ pip2 install -r zona.Crack666 <br>\par
 $ python2 Crack666.rtf <br>\par
